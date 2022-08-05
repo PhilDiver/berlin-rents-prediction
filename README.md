@@ -1,6 +1,6 @@
 # Predicting monthly rent prices for real estate objects in the city Berlin
 
-*Note: This project was conducted as part of the course Machine Learning at the RMIT University.*
+(student project)
 
 This project addresses the prediction of monthly rent prices for real estate objects in the city Berlin, Germany. The jupyter notebook content includes data preprocessing, exploratory data analysis, feature engineering, modeling and evaluation.
 
